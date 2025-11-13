@@ -1,0 +1,5 @@
+This folder contains placeholder assets. Replace with your actual files.
+- montage.mp4
+- cafe.glb
+- auto.glb
+- theatre.glb
